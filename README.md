@@ -36,7 +36,7 @@ The dataset used for this analysis includes data on electoral bonds issued and r
 3. **Descriptive Analysis**: 
    - Conduct descriptive analysis to summarize key characteristics of the data, such as total contributions, average contributions, and distribution of contributions across different parties.
 
-4. **Trend Analysis**: 
+4. **Trend Analysis**:
    - Analyze trends in electoral bond issuance and redemption over time to identify peak periods and growth rates.
 
 5. **Party-wise Analysis**: 
